@@ -1,9 +1,9 @@
 package main
 
 import (
+	"fmt"
 	"os"
 	"text/template"
-	"fmt"
 )
 
 func main() {
